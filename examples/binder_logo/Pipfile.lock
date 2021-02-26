@@ -425,11 +425,11 @@
         },
         "mkdocs-material": {
             "hashes": [
-                "sha256:0af576868e25cc0e3f67c2c1175cc0a8bde10d8e3a105ae3f10455411ad0cac6",
-                "sha256:1016e4f2207c23683c7074d826eb549a5aabd95811aaa09bd2cfea1c1ea831f4"
+                "sha256:853b9276a32700fed7fbdf608d6ac39297edcdf8cb683c6337acb412d9c7bb57",
+                "sha256:cb2ba082f91e6ca8517589cddf31f9f9134cd081aa50c7973895734c8d56f13b"
             ],
             "index": "pypi",
-            "version": "==7.0.0"
+            "version": "==7.0.2"
         },
         "mkdocs-material-extensions": {
             "hashes": [
@@ -444,10 +444,10 @@
         },
         "nbclient": {
             "hashes": [
-                "sha256:0ed6e5700ad18818030a3a5f0f201408c5972d8e38793840cd9339488fd9f7c4",
-                "sha256:1e0375490cd33fda6c23e61084476298a87f34d02607a038aa8ecc6e8901615f"
+                "sha256:db17271330c68c8c88d46d72349e24c147bb6f34ec82d8481a8f025c4d26589c",
+                "sha256:e79437364a2376892b3f46bedbf9b444e5396cfb1bc366a472c37b48e9551500"
             ],
-            "version": "==0.5.2"
+            "version": "==0.5.3"
         },
         "nbconvert": {
             "hashes": [
